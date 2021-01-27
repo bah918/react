@@ -1,0 +1,20 @@
+.box:nth-child(odd) {
+    background: #cccccc;
+  }
+  .box:nth-child(even) {
+    background:#aaaaaa;
+  }
+  .box {
+    height: 190px;
+    padding: 8px;
+    text-align: center;
+  }
+
+  /*.container-fluid ::nth-child(add){
+  
+    background:#cccccc;
+  }
+  .container-fluid ::nth-child(even){
+  
+    background:#aaaaaa;
+  }*/
